@@ -1,0 +1,6 @@
+calculus\differential-calculus
+calculus\differential-equations
+calculus\integral-calculus
+calculus\kinematics
+calculus\maclaurin-series
+calculus
