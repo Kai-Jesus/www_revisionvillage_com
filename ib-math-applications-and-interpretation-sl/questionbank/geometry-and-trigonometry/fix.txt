@@ -1,0 +1,3 @@
+geometry-of-3d-shapes
+trigonometry
+voronoi-diagrams

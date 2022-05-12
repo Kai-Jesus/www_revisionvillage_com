@@ -1,0 +1,5 @@
+bivariate-statistics
+descriptive-statistics
+distributions
+hypothesis-testing
+probability

@@ -1,0 +1,3 @@
+applications-of-functions
+linear-equations-and-graphs
+properties-of-functions
